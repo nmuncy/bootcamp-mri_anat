@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "pages/schedule.html",
+    "href": "pages/schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Lesson\nDate\nMRI Topic\nMRI Module\nTechnical Topic\nTechnical Module\n\n\n\n\n1.\nTBD\nMagnetic Resonance Imaging\n1.1\nTerminal and Variables\n1.1, 1.2\n\n\n2.\nTBD\nT1-weighted Signal\n1.2\nScripting and For Loops\n1.3, 1.4"
+  },
+  {
+    "objectID": "pages/about.html",
+    "href": "pages/about.html",
+    "title": "About",
+    "section": "",
+    "text": "Bridging the Gap: From Scanner to Science\nThis bootcamp is an intensive, dual-track program designed to transform graduate students into technically autonomous neuroimagers.\nIn modern neuroscience, a compelling research question is only as strong as the pipeline used to answer it. However, the path from raw MRI data to reproducible insight is often blocked by a “hidden curriculum” of command-line tools, high-performance computing, and complex mathematical transformations. This bootcamp removes those barriers by integrating computational mastery with advanced structural MRI analysis.\n\n\nA Dual Approach to Neuroimaging\nOur curriculum is built on the philosophy that you cannot master neuroimaging without first mastering the environment in which it lives. We offer two integrated tracks:\n\nComputing Essentials: We take you from “word processing and web browsing” to managing high-performance computing (HPC) clusters. You will learn to automate your science using Bash, ensure reproducibility via Conda, and collaborate securely using Git.\nT1-Weighted Analysis: We move beyond “push-button” software to explore the biophysical and mathematical foundations of structural MRI. You will master the nuances of signal correction, spatial normalization, and automated parcellation using tools like ANTs and FreeSurfer.\n\n\n\nBuilt for Open Science\nThe primary goal of this bootcamp is to prepare you for independent, open-science research. We don’t just teach you how to run a command; we teach you how to build the robust, transparent, and reproducible infrastructure that modern science demands."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bootcamp: Anatomic MRI",
+    "section": "",
+    "text": "Most researchers enter neuroimaging eager to study the intricacies of the human brain, only to find themselves staring at a daunting terminal prompt. If the command line feels like a barrier between you and your research, you are in the right place.\nThis bootcamp is designed to turn the “technical overhead” of neuroimaging into your greatest research advantage.\n\n\nOver the course of this program, you will transition from navigating clinical DICOM files to executing large-scale, automated pipelines on powerful remote servers. Whether you are here to quantify cortical thickness, map brain development, or provide anatomical constraints for functional data, you will leave with:\n\nTechnical Autonomy: The ability to troubleshoot, script, and automate your own workflows.\nMethodological Rigor: A deep understanding of why we preprocess data.\nReproducible Habits: The version control and environment management skills that make your future self (and your reviewers) happy.\n\n\n\n\nTechnical skills are not “gifts” some researchers have and others don’t, they are tools that can be learned. We are here to provide the roadmap, the resources, and the support to help you master them."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Bootcamp: Anatomic MRI",
+    "section": "",
+    "text": "Most researchers enter neuroimaging eager to study the intricacies of the human brain, only to find themselves staring at a daunting terminal prompt. If the command line feels like a barrier between you and your research, you are in the right place.\nThis bootcamp is designed to turn the “technical overhead” of neuroimaging into your greatest research advantage.\n\n\nOver the course of this program, you will transition from navigating clinical DICOM files to executing large-scale, automated pipelines on powerful remote servers. Whether you are here to quantify cortical thickness, map brain development, or provide anatomical constraints for functional data, you will leave with:\n\nTechnical Autonomy: The ability to troubleshoot, script, and automate your own workflows.\nMethodological Rigor: A deep understanding of why we preprocess data.\nReproducible Habits: The version control and environment management skills that make your future self (and your reviewers) happy.\n\n\n\n\nTechnical skills are not “gifts” some researchers have and others don’t, they are tools that can be learned. We are here to provide the roadmap, the resources, and the support to help you master them."
+  },
+  {
+    "objectID": "pages/materials.html",
+    "href": "pages/materials.html",
+    "title": "Materials",
+    "section": "",
+    "text": "Type\nWebsite\n\n\n\n\nMRI\nAnatomic MRI\n\n\nTechnical\nComputing Essentials"
+  }
+]

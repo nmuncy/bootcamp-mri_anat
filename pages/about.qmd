@@ -1,0 +1,21 @@
+---
+title: About
+---
+
+### Bridging the Gap: From Scanner to Science
+
+This bootcamp is an intensive, dual-track program designed to transform graduate students into technically autonomous neuroimagers.
+
+In modern neuroscience, a compelling research question is only as strong as the pipeline used to answer it. However, the path from raw MRI data to reproducible insight is often blocked by a "hidden curriculum" of command-line tools, high-performance computing, and complex mathematical transformations. This bootcamp removes those barriers by integrating computational mastery with advanced structural MRI analysis.
+
+### A Dual Approach to Neuroimaging
+
+Our curriculum is built on the philosophy that you cannot master neuroimaging without first mastering the environment in which it lives. We offer two integrated tracks:
+
+1. Computing Essentials: We take you from "word processing and web browsing" to managing high-performance computing (HPC) clusters. You will learn to automate your science using Bash, ensure reproducibility via Conda, and collaborate securely using Git.
+
+2. T1-Weighted Analysis: We move beyond "push-button" software to explore the biophysical and mathematical foundations of structural MRI. You will master the nuances of signal correction, spatial normalization, and automated parcellation using tools like ANTs and FreeSurfer.
+
+### Built for Open Science
+
+The primary goal of this bootcamp is to prepare you for independent, open-science research. We don’t just teach you how to run a command; we teach you how to build the robust, transparent, and reproducible infrastructure that modern science demands.

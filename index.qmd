@@ -1,0 +1,29 @@
+---
+title: "Bootcamp: Anatomic MRI"
+author:
+  name: "Nathan Muncy"
+  email: "nmuncy@nd.edu"
+# date: today
+toc: false
+execute:
+  freeze: auto
+---
+
+## Welcome!
+
+Most researchers enter neuroimaging eager to study the intricacies of the human brain, only to find themselves staring at a daunting terminal prompt. If the command line feels like a barrier between you and your research, you are in the right place.
+
+This bootcamp is designed to turn the "technical overhead" of neuroimaging into your greatest research advantage.
+
+### What to Expect
+
+Over the course of this program, you will transition from navigating clinical DICOM files to executing large-scale, automated pipelines on powerful remote servers. Whether you are here to quantify cortical thickness, map brain development, or provide anatomical constraints for functional data, you will leave with:
+
+- Technical Autonomy: The ability to troubleshoot, script, and automate your own workflows.
+- Methodological Rigor: A deep understanding of why we preprocess data.
+- Reproducible Habits: The version control and environment management skills that make your future self (and your reviewers) happy.
+
+### Let’s Get Started
+
+Technical skills are not "gifts" some researchers have and others don't, they are tools that can be learned. We are here to provide the roadmap, the resources, and the support to help you master them.
+

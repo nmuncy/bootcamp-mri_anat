@@ -1,0 +1,10 @@
+---
+title: "Materials"
+execute:
+  freeze: auto
+---
+
+| Type | Website |
+|------|------|
+| MRI | [Anatomic MRI](https://nmuncy.github.io/course-mri_anat/)
+| Technical | [Computing Essentials](https://nmuncy.github.io/course-basic_bash/) |

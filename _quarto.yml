@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "code/*.sh"
+    - "figures/*.png"
+    - "articles/*.pdf"
+  render:
+    - "*.qmd"
+    - "*.Rmd"
+
+website:
+  title: "Bootcamp: Anatomic MRI"
+  navbar:
+    title: false
+    logo: media/nd_logo.png
+    right:
+      - text: Navigate
+        menu:
+        - text: Home
+          href: index.qmd
+        - text: About
+          href: pages/about.qmd
+        - text: Materials
+          href: pages/materials.qmd
+        - text: Schedule
+          href: pages/schedule.qmd
+  page-footer:
+    background: light
+    center: "&copy; 2026 Nathan M. Muncy. Powered by <a href='https://www.quarto.org'>Quarto</a>."
+
+
+format:
+  html:
+    # backgroundcolor: "#D3D3D3"
+    fontcolor: "#0c2340"
+    linkcolor: "#ae9142"
+    css: styles.css
+    toc: true
+    theme:
+      - cosmo
+      - brand
