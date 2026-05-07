@@ -4,7 +4,9 @@ execute:
   freeze: auto
 ---
 
-| Type | Website |
-|------|------|
-| MRI | [Anatomic MRI](https://nmuncy.github.io/course-mri_anat/)
-| Technical | [Computing Essentials](https://nmuncy.github.io/course-basic_bash/) |
+This bootcamp coordinates resources built as individual courses. The [schedule](schedule.qmd) will orient you to the relevant course subject and module.
+
+| Course | Type | Website |
+|--------|------|---------|
+| Anatomic Analyses | MRI | [Site](https://nmuncy.github.io/course-mri_anat/) |
+| Computational Foundations | Technical | [Site](https://nmuncy.github.io/course-basic_bash/) |

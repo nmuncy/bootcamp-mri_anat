@@ -4,7 +4,7 @@
     "href": "pages/schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Lesson\nDate\nMRI Topic\nMRI Module\nTechnical Topic\nTechnical Module\n\n\n\n\n1.\nTBD\nMagnetic Resonance Imaging\n1.1\nTerminal and Variables\n1.1, 1.2\n\n\n2.\nTBD\nT1-weighted Signal\n1.2\nScripting and For Loops\n1.3, 1.4"
+    "text": "Lesson\nDate\nMRI Topic\nMRI Module\nTechnical Topic\nTechnical Module\n\n\n\n\n1.\nTBD\nMagnetic Resonance Imaging\n1.1\nTerminal and Variables\n1.1, 1.2\n\n\n2.\nTBD\nT1-weighted Signal\n1.2\nScripting and For Loops\n1.3, 1.4\n\n\n\n\n\nFor each lesson, please refer to the Anatomic MRI and Computational Foundations module pages for exercises and additional resources."
   },
   {
     "objectID": "pages/about.html",
@@ -32,6 +32,6 @@
     "href": "pages/materials.html",
     "title": "Materials",
     "section": "",
-    "text": "Type\nWebsite\n\n\n\n\nMRI\nAnatomic MRI\n\n\nTechnical\nComputing Essentials"
+    "text": "This bootcamp coordinates resources built as individual courses. The schedule will orient you to the relevant course subject and module.\n\n\n\nCourse\nType\nWebsite\n\n\n\n\nAnatomic Analyses\nMRI\nSite\n\n\nComputational Foundations\nTechnical\nSite"
   }
 ]

@@ -4,8 +4,8 @@ title: Schedule
 
 | Lesson | Date | MRI Topic | MRI Module| Technical Topic | Technical Module |
 |--------|------|---------------|----------|-----------------|------------------|
-| 1. | TBD | Magnetic Resonance Imaging | 1.1 | Terminal and Variables | 1.1, 1.2 |
-| 2. | TBD | T1-weighted Signal | 1.2 | Scripting and For Loops | 1.3, 1.4 |
+| 1. | TBD | Magnetic Resonance Imaging | [1.1](https://nmuncy.github.io/course-mri_anat/lectures/mri_overview/mri_overview.html#/title-slide) | Terminal and Variables | [1.1](https://nmuncy.github.io/course-basic_bash/lectures/01-the_terminal/01-the_terminal.html#/title-slide), [1.2](https://nmuncy.github.io/course-basic_bash/lectures/02-variables/02-variables.html#/title-slide) |
+| 2. | TBD | T1-weighted Signal | [1.2](https://nmuncy.github.io/course-mri_anat/lectures/t1w_signal/t1w_signal.html#/title-slide) | Scripting and For Loops | [1.3](https://nmuncy.github.io/course-basic_bash/lectures/03-scripting/03-scripting.html#/title-slide), [1.4](https://nmuncy.github.io/course-basic_bash/lectures/04-for_loops/04-for_loops.html#/title-slide) |
 
 <!--
 | 2. Scripting and for loops | TBD | Module 1.3, 1.4 |
@@ -29,3 +29,7 @@ title: Schedule
 | 10. Team development | TBD | Module 2.7 |
 | 10. FreeSurfer | Slides | Code | Practice |
 -->
+
+---
+
+For each lesson, please refer to the [Anatomic MRI](https://nmuncy.github.io/course-mri_anat/pages/modules.html) and [Computational Foundations](https://nmuncy.github.io/course-basic_bash/pages/modules.html) module pages for exercises and additional resources.
